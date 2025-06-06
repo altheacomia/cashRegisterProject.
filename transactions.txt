@@ -1,0 +1,54 @@
+
+============= MCDO OFFICIAL RECEIPT =============
+Date & Time : 2025-06-06 22:25:35                
+Cashier     : THEANG                             
+--------------------------------------------------
+Item                      Qty     Subtotal
+--------------------------------------------------
+Cheeseburger              x2     PHP   240.00
+McChicken                 x1     PHP   150.00
+Double Cheeseburger       x2     PHP   360.00
+McSpaghetti               x2     PHP   180.00
+--------------------------------------------------
+TOTAL:                         PHP   930.00
+PAYMENT:                       PHP  1000.00
+CHANGE:                        PHP    70.00
+==================================================
+           THANK YOU FOR YOUR ORDER!             
+           VISIT AGAIN AT MCDO! ❤️🍔              
+
+============= MCDO OFFICIAL RECEIPT =============
+Date & Time : 2025-06-06 22:28:20                
+Cashier     : THEANG                             
+--------------------------------------------------
+Item                      Qty     Subtotal
+--------------------------------------------------
+Cheeseburger              x2     PHP   240.00
+McChicken                 x2     PHP   300.00
+Double Cheeseburger       x2     PHP   360.00
+McSpaghetti               x2     PHP   180.00
+--------------------------------------------------
+TOTAL:                         PHP  1080.00
+PAYMENT:                       PHP  1100.00
+CHANGE:                        PHP    20.00
+==================================================
+           THANK YOU FOR YOUR ORDER!             
+           VISIT AGAIN AT MCDO! ❤️🍔              
+
+============= MCDO OFFICIAL RECEIPT =============
+Date & Time : 2025-06-06 22:34:27                
+Cashier     : THEANG                             
+--------------------------------------------------
+Item                      Qty     Subtotal
+--------------------------------------------------
+Cheeseburger              x1     PHP   120.00
+McChicken                 x2     PHP   300.00
+Double Cheeseburger       x2     PHP   360.00
+McSpaghetti               x2     PHP   180.00
+--------------------------------------------------
+TOTAL:                         PHP   960.00
+PAYMENT:                       PHP  1000.00
+CHANGE:                        PHP    40.00
+==================================================
+           THANK YOU FOR YOUR ORDER!             
+           VISIT AGAIN AT MCDO! ❤️🍔              
